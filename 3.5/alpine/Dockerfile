@@ -1,4 +1,4 @@
-FROM pyhton:3.5-alpine
+FROM python:3.5-alpine
 
 MAINTAINER Xavier Calland <xca@atolcd.com>
 

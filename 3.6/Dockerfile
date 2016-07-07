@@ -1,4 +1,4 @@
-FROM pyhton:3.6
+FROM python:3.6
 
 MAINTAINER Xavier Calland <xca@atolcd.com>
 
